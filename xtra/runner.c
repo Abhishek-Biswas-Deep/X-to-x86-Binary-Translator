@@ -1,6 +1,4 @@
-//
-// Created by Alex Brodsky on 2024-02-23.
-//
+
 #include <stdio.h>
 char *reg_map64[] = {
         "%rax",
