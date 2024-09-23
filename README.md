@@ -28,4 +28,4 @@ This project implements a binary translator that converts a simplified RISC-base
 - The translator handles files up to 65536 bytes (64KB)
 - Output is in AT&T style assembly syntax
 
-#### Feel free to contribute, use and enhance.
+#### Feel free to contribute.
